@@ -1,0 +1,247 @@
+2024-06-08 20:31:17.752 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-08 20:31:17.788 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-08 20:31:17.789 +05:30 [INF] Hosting environment: Development
+2024-06-08 20:31:17.789 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-08 20:31:33.756 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-08 20:31:33.791 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-08 20:31:33.793 +05:30 [INF] Hosting environment: Development
+2024-06-08 20:31:33.794 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-08 20:31:33.954 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-08 20:31:34.291 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 341.0246ms
+2024-06-08 20:31:34.304 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-08 20:31:34.310 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 6.543ms
+2024-06-08 20:31:34.315 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-08 20:31:35.219 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-08 20:31:35.234 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 15.1826ms
+2024-06-08 20:31:35.251 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-08 20:31:35.255 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.2503ms
+2024-06-08 20:31:36.486 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 2170.7544ms
+2024-06-08 20:31:36.487 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-08 20:31:36.498 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 10.875ms
+2024-06-08 20:31:36.568 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-08 20:31:36.854 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-08 20:31:36.858 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 290.3891ms
+2024-06-08 20:31:36.924 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 70.1503ms
+2024-06-08 20:34:15.747 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/lxp/enroll - application/json 272
+2024-06-08 20:34:15.786 +05:30 [INF] CORS policy execution successful.
+2024-06-08 20:34:15.789 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-06-08 20:34:15.792 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.EnrollmentController.Addenroll (LXP.Api)'
+2024-06-08 20:34:15.807 +05:30 [INF] Route matched with {action = "Addenroll", controller = "Enrollment"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Addenroll(LXP.Common.ViewModels.EnrollmentViewModel) on controller LXP.Api.Controllers.EnrollmentController (LXP.Api).
+2024-06-08 20:34:17.567 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-06-08 20:34:17.578 +05:30 [INF] Executed action LXP.Api.Controllers.EnrollmentController.Addenroll (LXP.Api) in 1765.8521ms
+2024-06-08 20:34:17.580 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.EnrollmentController.Addenroll (LXP.Api)'
+2024-06-08 20:34:17.581 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/lxp/enroll - 200 null application/json; charset=utf-8 1836.8509ms
+2024-06-08 20:35:01.798 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - null 0
+2024-06-08 20:35:01.852 +05:30 [INF] CORS policy execution successful.
+2024-06-08 20:35:01.858 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 20:35:01.876 +05:30 [INF] Route matched with {action = "CalculateCourseCompletion", controller = "LearnerProgress"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateCourseCompletion(System.Guid) on controller LXP.Api.Controllers.LearnerProgressController (LXP.Api).
+2024-06-08 20:35:02.057 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-08 20:35:02.060 +05:30 [INF] Executed action LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api) in 179.5954ms
+2024-06-08 20:35:02.062 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 20:35:02.063 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - 200 null application/json; charset=utf-8 264.7794ms
+2024-06-08 20:47:13.484 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - null 0
+2024-06-08 20:47:13.494 +05:30 [INF] CORS policy execution successful.
+2024-06-08 20:47:13.498 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 20:47:13.502 +05:30 [INF] Route matched with {action = "CalculateCourseCompletion", controller = "LearnerProgress"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateCourseCompletion(System.Guid) on controller LXP.Api.Controllers.LearnerProgressController (LXP.Api).
+2024-06-08 20:47:13.589 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-08 20:47:13.590 +05:30 [INF] Executed action LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api) in 85.1311ms
+2024-06-08 20:47:13.592 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 20:47:13.593 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - 200 null application/json; charset=utf-8 110.5313ms
+2024-06-08 20:50:15.487 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - null 0
+2024-06-08 20:50:15.518 +05:30 [INF] CORS policy execution successful.
+2024-06-08 20:50:15.522 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 20:50:15.528 +05:30 [INF] Route matched with {action = "CalculateCourseCompletion", controller = "LearnerProgress"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateCourseCompletion(System.Guid) on controller LXP.Api.Controllers.LearnerProgressController (LXP.Api).
+2024-06-08 20:50:15.638 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-08 20:50:15.648 +05:30 [INF] Executed action LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api) in 108.6627ms
+2024-06-08 20:50:15.654 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 20:50:15.658 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - 200 null application/json; charset=utf-8 174.3983ms
+2024-06-08 20:50:58.517 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - null 0
+2024-06-08 20:50:58.546 +05:30 [INF] CORS policy execution successful.
+2024-06-08 20:50:58.550 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 20:50:58.556 +05:30 [INF] Route matched with {action = "CalculateCourseCompletion", controller = "LearnerProgress"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateCourseCompletion(System.Guid) on controller LXP.Api.Controllers.LearnerProgressController (LXP.Api).
+2024-06-08 20:50:58.684 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-08 20:50:58.691 +05:30 [INF] Executed action LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api) in 124.9875ms
+2024-06-08 20:50:58.701 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 20:50:58.707 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - 200 null application/json; charset=utf-8 190.5028ms
+2024-06-08 21:16:49.808 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/lxp/course?Title=Machine%20learning&Level=985fbd6d-e07b-449c-8bcf-a8333241786a&Catagory=9a4d31bd-83c3-49fc-8d81-9db10b5826d4&Description=datascience%20for%20machine%20learning&Duration=4.9 - multipart/form-data; boundary=----WebKitFormBoundary4BNZL40DZiKM3xQx 8336
+2024-06-08 21:16:49.812 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:16:49.813 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.CourseController.AddCourse (LXP.Api)'
+2024-06-08 21:16:49.828 +05:30 [INF] Route matched with {action = "AddCourse", controller = "Course"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddCourse(LXP.Common.ViewModels.CourseViewModel) on controller LXP.Api.Controllers.CourseController (LXP.Api).
+2024-06-08 21:16:49.920 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2024-06-08 21:16:49.933 +05:30 [INF] Executed action LXP.Api.Controllers.CourseController.AddCourse (LXP.Api) in 103.5342ms
+2024-06-08 21:16:49.934 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.CourseController.AddCourse (LXP.Api)'
+2024-06-08 21:16:49.936 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/lxp/course?Title=Machine%20learning&Level=985fbd6d-e07b-449c-8bcf-a8333241786a&Catagory=9a4d31bd-83c3-49fc-8d81-9db10b5826d4&Description=datascience%20for%20machine%20learning&Duration=4.9 - 400 null application/problem+json; charset=utf-8 127.4731ms
+2024-06-08 21:17:01.965 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/lxp/course?Title=Machine%20learning&Level=985fbd6d-e07b-449c-8bcf-a8333241786a&Catagory=9a4d31bd-83c3-49fc-8d81-9db10b5826d4&Description=datascience%20for%20machine%20learning&Duration=4 - multipart/form-data; boundary=----WebKitFormBoundarydBfrObubWcr9YhPN 8336
+2024-06-08 21:17:01.968 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:17:01.969 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.CourseController.AddCourse (LXP.Api)'
+2024-06-08 21:17:01.969 +05:30 [INF] Route matched with {action = "AddCourse", controller = "Course"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddCourse(LXP.Common.ViewModels.CourseViewModel) on controller LXP.Api.Controllers.CourseController (LXP.Api).
+2024-06-08 21:17:01.982 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2024-06-08 21:17:01.986 +05:30 [INF] Executed action LXP.Api.Controllers.CourseController.AddCourse (LXP.Api) in 13.9037ms
+2024-06-08 21:17:01.988 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.CourseController.AddCourse (LXP.Api)'
+2024-06-08 21:17:01.989 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/lxp/course?Title=Machine%20learning&Level=985fbd6d-e07b-449c-8bcf-a8333241786a&Catagory=9a4d31bd-83c3-49fc-8d81-9db10b5826d4&Description=datascience%20for%20machine%20learning&Duration=4 - 400 null application/problem+json; charset=utf-8 24.8075ms
+2024-06-08 21:17:24.064 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/lxp/course?Title=Machine%20learning&Level=985fbd6d-e07b-449c-8bcf-a8333241786a&Catagory=9a4d31bd-83c3-49fc-8d81-9db10b5826d4&Description=datascience%20for%20machine%20learning&Duration=04%3A00 - multipart/form-data; boundary=----WebKitFormBoundaryEOE8eNoRBAsbUbal 8336
+2024-06-08 21:17:24.073 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:17:24.075 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.CourseController.AddCourse (LXP.Api)'
+2024-06-08 21:17:24.076 +05:30 [INF] Route matched with {action = "AddCourse", controller = "Course"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddCourse(LXP.Common.ViewModels.CourseViewModel) on controller LXP.Api.Controllers.CourseController (LXP.Api).
+2024-06-08 21:17:25.251 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-06-08 21:17:25.253 +05:30 [INF] Executed action LXP.Api.Controllers.CourseController.AddCourse (LXP.Api) in 1174.4763ms
+2024-06-08 21:17:25.257 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.CourseController.AddCourse (LXP.Api)'
+2024-06-08 21:17:25.259 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/lxp/course?Title=Machine%20learning&Level=985fbd6d-e07b-449c-8bcf-a8333241786a&Catagory=9a4d31bd-83c3-49fc-8d81-9db10b5826d4&Description=datascience%20for%20machine%20learning&Duration=04%3A00 - 200 null application/json; charset=utf-8 1195.0051ms
+2024-06-08 21:19:01.151 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/lxp/course/topic - application/json 171
+2024-06-08 21:19:01.163 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:19:01.163 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.CourseTopicController.AddCourseTopic (LXP.Api)'
+2024-06-08 21:19:01.168 +05:30 [INF] Route matched with {action = "AddCourseTopic", controller = "CourseTopic"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddCourseTopic(LXP.Common.ViewModels.CourseTopicViewModel) on controller LXP.Api.Controllers.CourseTopicController (LXP.Api).
+2024-06-08 21:19:01.230 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-06-08 21:19:01.237 +05:30 [INF] Executed action LXP.Api.Controllers.CourseTopicController.AddCourseTopic (LXP.Api) in 66.5512ms
+2024-06-08 21:19:01.239 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.CourseTopicController.AddCourseTopic (LXP.Api)'
+2024-06-08 21:19:01.240 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/lxp/course/topic - 200 null application/json; charset=utf-8 89.5263ms
+2024-06-08 21:21:25.264 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/lxp/course/material - multipart/form-data; boundary=----WebKitFormBoundaryYBXILFyAZYoHfP01 1042941
+2024-06-08 21:21:25.280 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:21:25.281 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.MaterialController.AddMaterial (LXP.Api)'
+2024-06-08 21:21:25.286 +05:30 [INF] Route matched with {action = "AddMaterial", controller = "Material"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddMaterial(LXP.Common.ViewModels.MaterialViewModel) on controller LXP.Api.Controllers.MaterialController (LXP.Api).
+2024-06-08 21:21:25.391 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-06-08 21:21:25.397 +05:30 [INF] Executed action LXP.Api.Controllers.MaterialController.AddMaterial (LXP.Api) in 109.8026ms
+2024-06-08 21:21:25.398 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.MaterialController.AddMaterial (LXP.Api)'
+2024-06-08 21:21:25.400 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/lxp/course/material - 200 null application/json; charset=utf-8 136.4289ms
+2024-06-08 21:22:20.990 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/lxp/course/material - multipart/form-data; boundary=----WebKitFormBoundaryAIBUyHV8hI74Ay3B 4436430
+2024-06-08 21:22:21.003 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:22:21.004 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.MaterialController.AddMaterial (LXP.Api)'
+2024-06-08 21:22:21.005 +05:30 [INF] Route matched with {action = "AddMaterial", controller = "Material"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddMaterial(LXP.Common.ViewModels.MaterialViewModel) on controller LXP.Api.Controllers.MaterialController (LXP.Api).
+2024-06-08 21:22:21.092 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-06-08 21:22:21.093 +05:30 [INF] Executed action LXP.Api.Controllers.MaterialController.AddMaterial (LXP.Api) in 86.84ms
+2024-06-08 21:22:21.094 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.MaterialController.AddMaterial (LXP.Api)'
+2024-06-08 21:22:21.096 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/lxp/course/material - 200 null application/json; charset=utf-8 105.539ms
+2024-06-08 21:23:00.028 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/lxp/course/learnerprogress - null 0
+2024-06-08 21:23:00.031 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:23:00.032 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:23:00.038 +05:30 [INF] Route matched with {action = "CalculateCourseCompletion", controller = "LearnerProgress"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateCourseCompletion(System.Guid) on controller LXP.Api.Controllers.LearnerProgressController (LXP.Api).
+2024-06-08 21:23:00.047 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-08 21:23:00.056 +05:30 [INF] Executed action LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api) in 16.1603ms
+2024-06-08 21:23:00.057 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:23:00.058 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/lxp/course/learnerprogress - 200 null application/json; charset=utf-8 30.129ms
+2024-06-08 21:25:21.728 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-08 21:25:21.761 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-08 21:25:21.763 +05:30 [INF] Hosting environment: Development
+2024-06-08 21:25:21.764 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-08 21:25:24.964 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-08 21:25:25.606 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 644.6087ms
+2024-06-08 21:25:25.633 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-08 21:25:25.638 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.5675ms
+2024-06-08 21:25:25.648 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-08 21:25:25.684 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.5889ms
+2024-06-08 21:25:25.885 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-08 21:25:26.093 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 207.9693ms
+2024-06-08 21:28:26.190 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/lxp/course/learnerprogress - application/json 247
+2024-06-08 21:28:26.206 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:28:26.207 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-06-08 21:28:26.210 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.LearnerProgressController.MaterialProgress (LXP.Api)'
+2024-06-08 21:28:26.225 +05:30 [INF] Route matched with {action = "MaterialProgress", controller = "LearnerProgress"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] MaterialProgress(LXP.Common.ViewModels.LearnerProgressViewModel) on controller LXP.Api.Controllers.LearnerProgressController (LXP.Api).
+2024-06-08 21:28:27.837 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-06-08 21:28:27.841 +05:30 [INF] Executed action LXP.Api.Controllers.LearnerProgressController.MaterialProgress (LXP.Api) in 1612.2035ms
+2024-06-08 21:28:27.842 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.LearnerProgressController.MaterialProgress (LXP.Api)'
+2024-06-08 21:28:27.845 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/lxp/course/learnerprogress - 200 0 null 1655.071ms
+2024-06-08 21:29:47.709 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - null 0
+2024-06-08 21:29:47.721 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:29:47.722 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:29:47.726 +05:30 [INF] Route matched with {action = "CalculateCourseCompletion", controller = "LearnerProgress"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateCourseCompletion(System.Guid) on controller LXP.Api.Controllers.LearnerProgressController (LXP.Api).
+2024-06-08 21:29:47.941 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-08 21:29:47.947 +05:30 [INF] Executed action LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api) in 220.3559ms
+2024-06-08 21:29:47.949 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:29:47.949 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - 200 null application/json; charset=utf-8 241.3729ms
+2024-06-08 21:32:12.724 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/lxp/enroll - application/json 272
+2024-06-08 21:32:12.730 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:32:12.731 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.EnrollmentController.Addenroll (LXP.Api)'
+2024-06-08 21:32:12.734 +05:30 [INF] Route matched with {action = "Addenroll", controller = "Enrollment"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Addenroll(LXP.Common.ViewModels.EnrollmentViewModel) on controller LXP.Api.Controllers.EnrollmentController (LXP.Api).
+2024-06-08 21:32:12.834 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-06-08 21:32:12.840 +05:30 [INF] Executed action LXP.Api.Controllers.EnrollmentController.Addenroll (LXP.Api) in 104.3377ms
+2024-06-08 21:32:12.841 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.EnrollmentController.Addenroll (LXP.Api)'
+2024-06-08 21:32:12.841 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/lxp/enroll - 200 null application/json; charset=utf-8 118.4093ms
+2024-06-08 21:32:21.252 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - null 0
+2024-06-08 21:32:21.258 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:32:21.259 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:32:21.260 +05:30 [INF] Route matched with {action = "CalculateCourseCompletion", controller = "LearnerProgress"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateCourseCompletion(System.Guid) on controller LXP.Api.Controllers.LearnerProgressController (LXP.Api).
+2024-06-08 21:32:21.317 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-08 21:32:21.318 +05:30 [INF] Executed action LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api) in 56.0229ms
+2024-06-08 21:32:21.319 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:32:21.320 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - 200 null application/json; charset=utf-8 67.8119ms
+2024-06-08 21:39:58.235 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - null 0
+2024-06-08 21:39:58.248 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:39:58.252 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:39:58.253 +05:30 [INF] Route matched with {action = "CalculateCourseCompletion", controller = "LearnerProgress"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateCourseCompletion(System.Guid) on controller LXP.Api.Controllers.LearnerProgressController (LXP.Api).
+2024-06-08 21:39:58.297 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-08 21:39:58.299 +05:30 [INF] Executed action LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api) in 44.6014ms
+2024-06-08 21:39:58.300 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:39:58.300 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - 200 null application/json; charset=utf-8 66.0464ms
+2024-06-08 21:43:07.643 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - null 0
+2024-06-08 21:43:07.652 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:43:07.653 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:43:07.655 +05:30 [INF] Route matched with {action = "CalculateCourseCompletion", controller = "LearnerProgress"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateCourseCompletion(System.Guid) on controller LXP.Api.Controllers.LearnerProgressController (LXP.Api).
+2024-06-08 21:43:07.686 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-08 21:43:07.687 +05:30 [INF] Executed action LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api) in 30.7475ms
+2024-06-08 21:43:07.688 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:43:07.689 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - 200 null application/json; charset=utf-8 45.8962ms
+2024-06-08 21:43:24.948 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - null 0
+2024-06-08 21:43:24.951 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:43:24.952 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:43:24.953 +05:30 [INF] Route matched with {action = "CalculateCourseCompletion", controller = "LearnerProgress"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateCourseCompletion(System.Guid) on controller LXP.Api.Controllers.LearnerProgressController (LXP.Api).
+2024-06-08 21:43:24.979 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-08 21:43:24.980 +05:30 [INF] Executed action LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api) in 24.3145ms
+2024-06-08 21:43:24.981 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:43:24.982 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - 200 null application/json; charset=utf-8 33.8155ms
+2024-06-08 21:46:47.152 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-08 21:46:47.193 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-08 21:46:47.194 +05:30 [INF] Hosting environment: Development
+2024-06-08 21:46:47.196 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-08 21:46:50.332 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-08 21:46:50.613 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 284.1632ms
+2024-06-08 21:46:50.619 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-08 21:46:50.624 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-08 21:46:50.626 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 6.6741ms
+2024-06-08 21:46:50.677 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 53.6554ms
+2024-06-08 21:46:50.811 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-08 21:46:50.980 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 169.1266ms
+2024-06-08 21:56:04.706 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-08 21:56:04.738 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-08 21:56:04.740 +05:30 [INF] Hosting environment: Development
+2024-06-08 21:56:04.740 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-08 21:56:06.133 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-08 21:56:06.482 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 356.5184ms
+2024-06-08 21:56:06.496 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-08 21:56:06.500 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.6327ms
+2024-06-08 21:56:06.507 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-08 21:56:06.534 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.4502ms
+2024-06-08 21:56:06.669 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-08 21:56:06.806 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 136.5322ms
+2024-06-08 21:56:26.478 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - null 0
+2024-06-08 21:56:26.488 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:56:26.490 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-06-08 21:56:26.493 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:56:26.512 +05:30 [INF] Route matched with {action = "CalculateCourseCompletion", controller = "LearnerProgress"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateCourseCompletion(System.Guid) on controller LXP.Api.Controllers.LearnerProgressController (LXP.Api).
+2024-06-08 21:56:28.155 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-08 21:56:28.166 +05:30 [INF] Executed action LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api) in 1649.5043ms
+2024-06-08 21:56:28.168 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:56:28.170 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - 200 null application/json; charset=utf-8 1691.7397ms
+2024-06-08 21:57:15.284 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - null 0
+2024-06-08 21:57:15.303 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:57:15.304 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:57:15.304 +05:30 [INF] Route matched with {action = "CalculateCourseCompletion", controller = "LearnerProgress"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateCourseCompletion(System.Guid) on controller LXP.Api.Controllers.LearnerProgressController (LXP.Api).
+2024-06-08 21:57:15.337 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-08 21:57:15.338 +05:30 [INF] Executed action LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api) in 31.9068ms
+2024-06-08 21:57:15.339 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:57:15.340 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - 200 null application/json; charset=utf-8 56.0212ms
+2024-06-08 21:58:03.902 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - null 0
+2024-06-08 21:58:03.908 +05:30 [INF] CORS policy execution successful.
+2024-06-08 21:58:03.909 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:58:03.910 +05:30 [INF] Route matched with {action = "CalculateCourseCompletion", controller = "LearnerProgress"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateCourseCompletion(System.Guid) on controller LXP.Api.Controllers.LearnerProgressController (LXP.Api).
+2024-06-08 21:58:03.944 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-08 21:58:03.945 +05:30 [INF] Executed action LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api) in 33.7554ms
+2024-06-08 21:58:03.946 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 21:58:03.947 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - 200 null application/json; charset=utf-8 44.5713ms
+2024-06-08 22:00:34.326 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - null 0
+2024-06-08 22:00:34.333 +05:30 [INF] CORS policy execution successful.
+2024-06-08 22:00:34.333 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 22:00:34.334 +05:30 [INF] Route matched with {action = "CalculateCourseCompletion", controller = "LearnerProgress"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateCourseCompletion(System.Guid) on controller LXP.Api.Controllers.LearnerProgressController (LXP.Api).
+2024-06-08 22:00:34.366 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-08 22:00:34.368 +05:30 [INF] Executed action LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api) in 31.7982ms
+2024-06-08 22:00:34.369 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.LearnerProgressController.CalculateCourseCompletion (LXP.Api)'
+2024-06-08 22:00:34.370 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/LearnerProgress/calculate-course-completion/d492b77f-f0e7-44de-95c2-ad58447b8d00 - 200 null application/json; charset=utf-8 44.7788ms

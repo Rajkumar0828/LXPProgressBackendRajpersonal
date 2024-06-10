@@ -1,0 +1,437 @@
+2024-06-07 10:54:24.087 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 10:54:24.137 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 10:54:24.139 +05:30 [INF] Hosting environment: Development
+2024-06-07 10:54:24.140 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 10:54:28.235 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 10:54:28.858 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 630.282ms
+2024-06-07 10:54:28.910 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 10:54:28.917 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 10:54:28.966 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 56.4067ms
+2024-06-07 10:54:29.023 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 106.9584ms
+2024-06-07 10:54:29.078 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 10:54:29.249 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 171.1038ms
+2024-06-07 10:59:58.785 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 10:59:58.817 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 10:59:58.820 +05:30 [INF] Hosting environment: Development
+2024-06-07 10:59:58.821 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 10:59:59.900 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 11:00:00.270 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 378.6102ms
+2024-06-07 11:00:00.290 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 11:00:00.291 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 11:00:00.294 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.382ms
+2024-06-07 11:00:00.323 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 31.7293ms
+2024-06-07 11:00:00.383 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 11:00:00.535 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 151.4958ms
+2024-06-07 11:01:21.905 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 11:01:21.936 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 11:01:21.938 +05:30 [INF] Hosting environment: Development
+2024-06-07 11:01:21.939 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 11:01:23.081 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 11:01:23.429 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 352.0582ms
+2024-06-07 11:01:23.450 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 11:01:23.452 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 11:01:23.454 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 3.7195ms
+2024-06-07 11:01:23.488 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.0703ms
+2024-06-07 11:01:23.540 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 11:01:23.687 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 146.98ms
+2024-06-07 11:02:16.419 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-06-07 11:02:16.425 +05:30 [INF] CORS policy execution successful.
+2024-06-07 11:02:16.432 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-06-07 11:02:16.435 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 11:02:16.449 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 11:02:21.856 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 11:02:21.867 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 5414.9427ms
+2024-06-07 11:02:21.868 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 11:02:21.869 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 5450.6421ms
+2024-06-07 11:02:45.713 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=202572 - null null
+2024-06-07 11:02:45.720 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-06-07 11:02:45.723 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 11:02:45.732 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-06-07 11:02:45.734 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 8.2208ms
+2024-06-07 11:02:45.736 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-06-07 11:02:45.737 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=rajkumar08102001%40gmail.com&userOTP=202572 - 200 null text/plain; charset=utf-8 24.2015ms
+2024-06-07 11:52:42.632 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 11:52:42.669 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 11:52:42.670 +05:30 [INF] Hosting environment: Development
+2024-06-07 11:52:42.671 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 11:52:46.690 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 11:52:47.306 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 623.5155ms
+2024-06-07 11:52:47.826 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 11:52:47.828 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 11:52:47.832 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.6036ms
+2024-06-07 11:52:47.874 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 45.6082ms
+2024-06-07 11:52:48.057 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 11:52:48.207 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 150.3567ms
+2024-06-07 11:53:52.718 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakannan%40relevantz.com - null 0
+2024-06-07 11:53:52.776 +05:30 [INF] CORS policy execution successful.
+2024-06-07 11:53:52.779 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-06-07 11:53:52.782 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 11:53:52.795 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 11:53:58.768 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 11:53:58.779 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 5979.2804ms
+2024-06-07 11:53:58.780 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 11:53:58.782 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakannan%40relevantz.com - 200 null application/json; charset=utf-8 6065.0002ms
+2024-06-07 11:54:55.267 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan.kamalakannan%40relevantz.com&userOTP=078405 - null null
+2024-06-07 11:54:55.277 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-06-07 11:54:55.283 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 11:54:55.289 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-06-07 11:54:55.291 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 6.516ms
+2024-06-07 11:54:55.291 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-06-07 11:54:55.292 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan.kamalakannan%40relevantz.com&userOTP=078405 - 200 null text/plain; charset=utf-8 25.2335ms
+2024-06-07 11:55:58.296 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan280901%40gmail.com - null 0
+2024-06-07 11:55:58.303 +05:30 [INF] CORS policy execution successful.
+2024-06-07 11:55:58.304 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 11:55:58.305 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 11:56:01.659 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 11:56:01.661 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3354.8627ms
+2024-06-07 11:56:01.666 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 11:56:01.667 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan280901%40gmail.com - 200 null application/json; charset=utf-8 3371.4881ms
+2024-06-07 11:56:36.979 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan280901%40gmail.com&userOTP=633999 - null null
+2024-06-07 11:56:36.990 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-06-07 11:56:36.991 +05:30 [INF] Route matched with {action = "VerifyOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult VerifyOTP(System.String, System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 11:56:36.994 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2024-06-07 11:56:36.995 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api) in 2.743ms
+2024-06-07 11:56:37.002 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.VerifyOTP (LXP.Api)'
+2024-06-07 11:56:37.002 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/api/Registration/VerifyOTP?email=keerthivasan280901%40gmail.com&userOTP=633999 - 200 null text/plain; charset=utf-8 23.809ms
+2024-06-07 12:03:53.550 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 12:03:53.586 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 12:03:53.588 +05:30 [INF] Hosting environment: Development
+2024-06-07 12:03:53.589 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 12:03:58.243 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 12:03:58.776 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 542.3532ms
+2024-06-07 12:03:58.802 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 12:03:58.803 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 12:03:58.808 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.7572ms
+2024-06-07 12:03:58.867 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 63.7354ms
+2024-06-07 12:03:59.042 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 12:03:59.194 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 151.985ms
+2024-06-07 12:04:38.269 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakannan%40relevantz.com - null 0
+2024-06-07 12:04:38.286 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:04:38.287 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-06-07 12:04:38.290 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:04:38.302 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:04:41.870 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:04:41.881 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3576.1319ms
+2024-06-07 12:04:41.883 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:04:41.883 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakannan%40relevantz.com - 200 null application/json; charset=utf-8 3615.9944ms
+2024-06-07 12:13:06.356 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 12:13:06.389 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 12:13:06.390 +05:30 [INF] Hosting environment: Development
+2024-06-07 12:13:06.391 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 12:13:07.548 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 12:13:08.170 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 630.3685ms
+2024-06-07 12:13:08.602 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 12:13:08.603 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 12:13:08.606 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.0602ms
+2024-06-07 12:13:08.638 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.239ms
+2024-06-07 12:13:08.694 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 12:13:08.847 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 152.531ms
+2024-06-07 12:13:43.786 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakannan%40relevantz.com - null 0
+2024-06-07 12:13:43.798 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:13:43.799 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-06-07 12:13:43.802 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:13:43.815 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:13:47.429 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:13:47.441 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3622.3912ms
+2024-06-07 12:13:47.443 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:13:47.443 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakannan%40relevantz.com - 200 null application/json; charset=utf-8 3657.7555ms
+2024-06-07 12:17:32.093 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 12:17:32.139 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 12:17:32.141 +05:30 [INF] Hosting environment: Development
+2024-06-07 12:17:32.141 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 12:17:33.262 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 12:17:33.594 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 339.8955ms
+2024-06-07 12:17:33.613 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 12:17:33.614 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 12:17:33.617 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.2194ms
+2024-06-07 12:17:33.655 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.3697ms
+2024-06-07 12:17:33.725 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 12:17:33.898 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 172.9519ms
+2024-06-07 12:18:24.335 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakannan%40relevantz.com - null 0
+2024-06-07 12:18:24.352 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:18:24.353 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-06-07 12:18:24.356 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:18:24.369 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:18:27.855 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:18:27.864 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3492.0764ms
+2024-06-07 12:18:27.865 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:18:27.866 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakannan%40relevantz.com - 200 null application/json; charset=utf-8 3531.5108ms
+2024-06-07 12:20:14.757 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 12:20:14.790 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 12:20:14.792 +05:30 [INF] Hosting environment: Development
+2024-06-07 12:20:14.793 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 12:20:18.722 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 12:20:19.059 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 342.7304ms
+2024-06-07 12:20:19.079 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 12:20:19.081 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 12:20:19.083 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.4286ms
+2024-06-07 12:20:19.115 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.5996ms
+2024-06-07 12:20:19.169 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 12:20:19.316 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 146.7592ms
+2024-06-07 12:20:38.837 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 12:20:38.873 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 12:20:38.875 +05:30 [INF] Hosting environment: Development
+2024-06-07 12:20:38.876 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 12:20:58.130 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 12:20:58.165 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 12:20:58.167 +05:30 [INF] Hosting environment: Development
+2024-06-07 12:20:58.168 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 12:21:03.024 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger - null null
+2024-06-07 12:21:03.283 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger - 301 0 null 267.1294ms
+2024-06-07 12:21:03.287 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 12:21:03.345 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 58.4471ms
+2024-06-07 12:21:03.354 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/swagger-ui.css - null null
+2024-06-07 12:21:03.357 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 12:21:03.356 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 12:21:03.354 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/swagger-ui-bundle.js - null null
+2024-06-07 12:21:03.369 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 12.3464ms
+2024-06-07 12:21:03.356 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/swagger-ui-standalone-preset.js - null null
+2024-06-07 12:21:03.406 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-06-07 12:21:03.406 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-06-07 12:21:03.406 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-06-07 12:21:03.409 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 52.4317ms
+2024-06-07 12:21:03.410 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/swagger-ui.css - 200 152034 text/css 56.1343ms
+2024-06-07 12:21:03.409 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/swagger-ui-bundle.js - 200 1456682 text/javascript 54.8986ms
+2024-06-07 12:21:03.416 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 59.1402ms
+2024-06-07 12:21:03.698 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 12:21:03.715 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/favicon-32x32.png - null null
+2024-06-07 12:21:03.718 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-06-07 12:21:03.719 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/favicon-32x32.png - 200 628 image/png 4.0562ms
+2024-06-07 12:21:03.836 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 137.6841ms
+2024-06-07 12:21:52.447 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakannan%40relevantz.com - null 0
+2024-06-07 12:21:52.459 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:21:52.460 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-06-07 12:21:52.463 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:21:52.475 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:21:55.924 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:21:55.934 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3454.248ms
+2024-06-07 12:21:55.936 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:21:55.936 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakannan%40relevantz.com - 200 null application/json; charset=utf-8 3489.1479ms
+2024-06-07 12:22:32.781 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar.ramanathan%40relevantz.com - null 0
+2024-06-07 12:22:32.796 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:22:32.797 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:22:32.799 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:22:35.737 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:22:35.742 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 2940.9758ms
+2024-06-07 12:22:35.744 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:22:35.745 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar.ramanathan%40relevantz.com - 200 null application/json; charset=utf-8 2963.9621ms
+2024-06-07 12:24:06.774 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 12:24:06.803 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 29.5645ms
+2024-06-07 12:24:06.820 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 12:24:06.821 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 12:24:06.830 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 10.6036ms
+2024-06-07 12:24:06.848 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.8602ms
+2024-06-07 12:24:07.173 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 12:24:07.215 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 41.6503ms
+2024-06-07 12:26:03.979 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/lxp/view/learner - null null
+2024-06-07 12:26:03.988 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GetAllCategory (LXP.Api)'
+2024-06-07 12:26:03.993 +05:30 [INF] Route matched with {action = "GetAllCategory", controller = "Registration"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCategory() on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:26:05.114 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-06-07 12:26:05.123 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GetAllCategory (LXP.Api) in 1128.8024ms
+2024-06-07 12:26:05.126 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GetAllCategory (LXP.Api)'
+2024-06-07 12:26:05.127 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/lxp/view/learner - 200 null application/json; charset=utf-8 1148.0103ms
+2024-06-07 12:26:19.926 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - null 0
+2024-06-07 12:26:19.931 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:26:19.932 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:26:19.933 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:26:23.282 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:26:23.289 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3354.0007ms
+2024-06-07 12:26:23.291 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:26:23.292 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rajkumar08102001%40gmail.com - 200 null application/json; charset=utf-8 3365.5045ms
+2024-06-07 12:26:47.675 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=kavinprakashsenthilprabhu%40gmail.com - null 0
+2024-06-07 12:26:47.682 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:26:47.683 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:26:47.683 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:26:50.889 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:26:50.898 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3212.9432ms
+2024-06-07 12:26:50.900 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:26:50.901 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=kavinprakashsenthilprabhu%40gmail.com - 200 null application/json; charset=utf-8 3225.6195ms
+2024-06-07 12:27:04.388 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=manoselvaraj%40gmail.com - null 0
+2024-06-07 12:27:04.391 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:27:04.393 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:27:04.396 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:27:07.599 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:27:07.602 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3199.9233ms
+2024-06-07 12:27:07.604 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:27:07.605 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=manoselvaraj%40gmail.com - 200 null application/json; charset=utf-8 3217.1964ms
+2024-06-07 12:27:23.593 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasankamalakannan%40gmail.com - null 0
+2024-06-07 12:27:23.597 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:27:23.598 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:27:23.599 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:27:28.754 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:27:28.759 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 5158.5894ms
+2024-06-07 12:27:28.761 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:27:28.761 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasankamalakannan%40gmail.com - 200 null application/json; charset=utf-8 5167.8509ms
+2024-06-07 12:27:46.721 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rubanchinnarathinam%40gmail.com - null 0
+2024-06-07 12:27:46.724 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:27:46.724 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:27:46.725 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:27:51.935 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:27:51.941 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 5213.285ms
+2024-06-07 12:27:51.942 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:27:51.943 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=rubanchinnarathinam%40gmail.com - 200 null application/json; charset=utf-8 5221.7688ms
+2024-06-07 12:30:24.859 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 12:30:24.901 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 12:30:24.903 +05:30 [INF] Hosting environment: Development
+2024-06-07 12:30:24.904 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 12:30:29.408 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 12:30:29.785 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 384.5025ms
+2024-06-07 12:30:29.795 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 12:30:29.795 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 12:30:29.805 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 10.0868ms
+2024-06-07 12:30:29.849 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 54.5936ms
+2024-06-07 12:30:29.957 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 12:30:30.113 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 155.2397ms
+2024-06-07 12:31:15.391 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakannan%40relevantz.com - null 0
+2024-06-07 12:31:15.403 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:31:15.405 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-06-07 12:31:15.408 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:31:15.419 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:31:18.653 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:31:18.662 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 3237.7267ms
+2024-06-07 12:31:18.664 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:31:18.664 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakannan%40relevantz.com - 200 null application/json; charset=utf-8 3273.7711ms
+2024-06-07 12:49:30.479 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 12:49:30.512 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 12:49:30.513 +05:30 [INF] Hosting environment: Development
+2024-06-07 12:49:30.513 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 12:49:34.222 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 12:49:34.985 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 768.121ms
+2024-06-07 12:49:34.993 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 12:49:34.993 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 12:49:35.003 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 9.7782ms
+2024-06-07 12:49:35.034 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.7535ms
+2024-06-07 12:49:35.165 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 12:49:35.363 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 198.1614ms
+2024-06-07 12:50:08.675 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 12:50:08.707 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 12:50:08.709 +05:30 [INF] Hosting environment: Development
+2024-06-07 12:50:08.709 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 12:50:12.981 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 12:50:13.362 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 387.6859ms
+2024-06-07 12:50:13.370 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 12:50:13.370 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 12:50:13.375 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 5.5295ms
+2024-06-07 12:50:13.401 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.7572ms
+2024-06-07 12:50:13.532 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 12:50:13.686 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 154.1763ms
+2024-06-07 12:50:45.603 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakanna%40relevantz.com - null 0
+2024-06-07 12:50:45.619 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:50:45.621 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-06-07 12:50:45.624 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:50:45.636 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:50:47.888 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:50:47.897 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 2256.9632ms
+2024-06-07 12:50:47.899 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:50:47.900 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakanna%40relevantz.com - 200 null application/json; charset=utf-8 2296.8687ms
+2024-06-07 12:51:52.392 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakannan%40relevantz.com - null 0
+2024-06-07 12:51:52.402 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:51:52.403 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:51:52.404 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:51:54.018 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:51:54.020 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 1614.7546ms
+2024-06-07 12:51:54.022 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:51:54.022 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan.kamalakannan%40relevantz.com - 200 null application/json; charset=utf-8 1630.8539ms
+2024-06-07 12:52:15.873 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 12:52:15.901 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 28.1401ms
+2024-06-07 12:52:15.926 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 12:52:15.926 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 12:52:15.928 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 2.2497ms
+2024-06-07 12:52:15.950 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 24.6611ms
+2024-06-07 12:52:16.048 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 12:52:16.097 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 49.1245ms
+2024-06-07 12:53:13.145 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=barath.johnappadurai%40relevantz.com - null 0
+2024-06-07 12:53:13.153 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:53:13.155 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:53:13.156 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:53:14.796 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:53:14.799 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 1639.276ms
+2024-06-07 12:53:14.800 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:53:14.801 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=barath.johnappadurai%40relevantz.com - 200 null application/json; charset=utf-8 1657.0728ms
+2024-06-07 12:53:53.939 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 12:53:53.970 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 12:53:53.971 +05:30 [INF] Hosting environment: Development
+2024-06-07 12:53:53.972 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 12:53:55.600 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 12:53:55.884 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 288.0652ms
+2024-06-07 12:53:55.892 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 12:53:55.895 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 12:53:55.897 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.7964ms
+2024-06-07 12:53:55.930 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.5309ms
+2024-06-07 12:53:56.044 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 12:53:56.195 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 150.3334ms
+2024-06-07 12:54:19.072 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=barath.johnappadurai%40relevantz.com - null 0
+2024-06-07 12:54:19.090 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:54:19.092 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-06-07 12:54:19.094 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:54:19.106 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:54:21.028 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:54:21.041 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 1931.2942ms
+2024-06-07 12:54:21.043 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:54:21.044 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=barath.johnappadurai%40relevantz.com - 200 null application/json; charset=utf-8 1972.29ms
+2024-06-07 12:55:51.173 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=19ucse027%40kamarajengg.edu.in - null 0
+2024-06-07 12:55:51.181 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:55:51.186 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:55:51.188 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:55:53.010 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:55:53.011 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 1822.4104ms
+2024-06-07 12:55:53.013 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:55:53.014 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=19ucse027%40kamarajengg.edu.in - 200 null application/json; charset=utf-8 1840.8384ms
+2024-06-07 12:56:47.289 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 12:56:47.314 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 27.1233ms
+2024-06-07 12:56:47.330 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 12:56:47.330 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 12:56:47.342 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 12.1767ms
+2024-06-07 12:56:47.351 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 21.6863ms
+2024-06-07 12:56:47.461 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 12:56:47.509 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 47.3701ms
+2024-06-07 12:57:16.565 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan280901%40gmail.com - null 0
+2024-06-07 12:57:16.572 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:57:16.572 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:57:16.573 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Registration"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateOTP(System.String) on controller LXP.Api.Controllers.RegistrationController (LXP.Api).
+2024-06-07 12:57:18.443 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Concurrent.ConcurrentDictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:57:18.446 +05:30 [INF] Executed action LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api) in 1871.7606ms
+2024-06-07 12:57:18.448 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.RegistrationController.GenerateOTP (LXP.Api)'
+2024-06-07 12:57:18.449 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Registration/EmailVerification?email=keerthivasan280901%40gmail.com - 200 null application/json; charset=utf-8 1885.356ms
+2024-06-07 12:58:39.739 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 12:58:39.770 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 12:58:39.772 +05:30 [INF] Hosting environment: Development
+2024-06-07 12:58:39.772 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 12:58:43.966 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 12:58:44.282 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 322.949ms
+2024-06-07 12:58:44.289 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 12:58:44.291 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 12:58:44.294 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 4.5265ms
+2024-06-07 12:58:44.318 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.7135ms
+2024-06-07 12:58:44.431 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 12:58:44.565 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 134.5359ms
+2024-06-07 12:59:28.301 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Email/EmailVerification - application/json 36
+2024-06-07 12:59:28.318 +05:30 [INF] CORS policy execution successful.
+2024-06-07 12:59:28.320 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-06-07 12:59:28.323 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.EmailController.GenerateOTP (LXP.Api)'
+2024-06-07 12:59:28.337 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Email"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GenerateOTP(System.String) on controller LXP.Api.Controllers.EmailController (LXP.Api).
+2024-06-07 12:59:40.163 +05:30 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 12:59:40.173 +05:30 [INF] Executed action LXP.Api.Controllers.EmailController.GenerateOTP (LXP.Api) in 11831.2474ms
+2024-06-07 12:59:40.175 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.EmailController.GenerateOTP (LXP.Api)'
+2024-06-07 12:59:40.177 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Email/EmailVerification - 400 null application/json; charset=utf-8 11876.5459ms
+2024-06-07 13:03:16.391 +05:30 [INF] Now listening on: http://localhost:5199
+2024-06-07 13:03:16.422 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-07 13:03:16.425 +05:30 [INF] Hosting environment: Development
+2024-06-07 13:03:16.425 +05:30 [INF] Content root path: C:\Users\rajkumar.ramanathan\Desktop\Sprint5 Backend\LXP.Api
+2024-06-07 13:03:18.145 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-06-07 13:03:18.700 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 561.6022ms
+2024-06-07 13:03:18.705 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-06-07 13:03:18.705 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-07 13:03:18.715 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 10.1048ms
+2024-06-07 13:03:18.752 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.225ms
+2024-06-07 13:03:18.869 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-06-07 13:03:19.020 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 151.5577ms
+2024-06-07 13:04:07.484 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/api/Email/EmailVerification - application/json 41
+2024-06-07 13:04:07.497 +05:30 [INF] CORS policy execution successful.
+2024-06-07 13:04:07.498 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-06-07 13:04:07.501 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.EmailController.GenerateOTP (LXP.Api)'
+2024-06-07 13:04:07.516 +05:30 [INF] Route matched with {action = "GenerateOTP", controller = "Email"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GenerateOTP(System.String) on controller LXP.Api.Controllers.EmailController (LXP.Api).
+2024-06-07 13:04:18.923 +05:30 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-06-07 13:04:18.933 +05:30 [INF] Executed action LXP.Api.Controllers.EmailController.GenerateOTP (LXP.Api) in 11413.3834ms
+2024-06-07 13:04:18.934 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.EmailController.GenerateOTP (LXP.Api)'
+2024-06-07 13:04:18.935 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/api/Email/EmailVerification - 400 null application/json; charset=utf-8 11451.6238ms
